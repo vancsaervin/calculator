@@ -1,0 +1,14 @@
+D:\info\Facultate\Anul II\Semestrul II\MVP - C#\Calculator\CalculatorAlaBun\bin\Debug\CalculatorAlaBun.exe.config
+D:\info\Facultate\Anul II\Semestrul II\MVP - C#\Calculator\CalculatorAlaBun\bin\Debug\CalculatorAlaBun.exe
+D:\info\Facultate\Anul II\Semestrul II\MVP - C#\Calculator\CalculatorAlaBun\bin\Debug\CalculatorAlaBun.pdb
+D:\info\Facultate\Anul II\Semestrul II\MVP - C#\Calculator\CalculatorAlaBun\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\info\Facultate\Anul II\Semestrul II\MVP - C#\Calculator\CalculatorAlaBun\obj\Debug\Views\MainWindow.g.cs
+D:\info\Facultate\Anul II\Semestrul II\MVP - C#\Calculator\CalculatorAlaBun\obj\Debug\App.g.cs
+D:\info\Facultate\Anul II\Semestrul II\MVP - C#\Calculator\CalculatorAlaBun\obj\Debug\CalculatorAlaBun_MarkupCompile.cache
+D:\info\Facultate\Anul II\Semestrul II\MVP - C#\Calculator\CalculatorAlaBun\obj\Debug\CalculatorAlaBun_MarkupCompile.lref
+D:\info\Facultate\Anul II\Semestrul II\MVP - C#\Calculator\CalculatorAlaBun\obj\Debug\Views\MainWindow.baml
+D:\info\Facultate\Anul II\Semestrul II\MVP - C#\Calculator\CalculatorAlaBun\obj\Debug\CalculatorAlaBun.g.resources
+D:\info\Facultate\Anul II\Semestrul II\MVP - C#\Calculator\CalculatorAlaBun\obj\Debug\CalculatorAlaBun.Properties.Resources.resources
+D:\info\Facultate\Anul II\Semestrul II\MVP - C#\Calculator\CalculatorAlaBun\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\info\Facultate\Anul II\Semestrul II\MVP - C#\Calculator\CalculatorAlaBun\obj\Debug\CalculatorAlaBun.exe
+D:\info\Facultate\Anul II\Semestrul II\MVP - C#\Calculator\CalculatorAlaBun\obj\Debug\CalculatorAlaBun.pdb
